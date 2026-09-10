@@ -1,0 +1,16 @@
+MCDA 3RS Design Alternatives;;;;;;
+Stakeholder;Criteria;Status quo;Third runway;Regional hub distribution;Airport optimalization;Criteria_Weight
+Hong Kong SAR Government;Economic benefits;35;95;30;70;0.5
+Hong Kong SAR Government;Passenger safaty;50;90;80;85;0.2
+Hong Kong SAR Government;International hub position;50;95;55;80;0.3
+Environmental Protection;Marine ecology impact;100;10;70;60;0.35
+Environmental Protection;Ecological habitat loss;100;10;40;90;0.25
+Environmental Protection;Air/ water quality;85;35;75;80;0.25
+Environmental Protection;Noise pollution;85;35;75;80;0.15
+Contractors;Technical feasibility;95;55;60;85;0.4
+Contractors;Construction risk;95;35;75;80;0.35
+Contractors;Labour and material requirements;95;50;60;80;0.25
+Local communities;Noise pollution;90;30;75;80;0.25
+Local communities;Air quality and health;90;30;75;80;0.3
+Local communities;Opportunities;40;90;75;65;0.2
+Local communities;Construction disturbance;95;15;75;80;0.25
